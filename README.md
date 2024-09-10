@@ -1,2 +1,2 @@
 # realistic-virus-simulator
-Realistic Virus Simulator
+Code for Realistic Virus Simulator build in Unity Game Engine in C#
